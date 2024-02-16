@@ -8,27 +8,17 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
   * Loose belly fat
   * Coffee, water, sugarfree gum is ok
 * Vineager before meals
-  * Add 1 tbsp to one glass of water before meal. Jessie Inchauspé. DOAC.
+  * Add 1 tbsp to one glass of water before meal. [Jessie Inchauspé. DOAC.](#doac1)
 * Move after meal
- * Small amount of movement helps catch the free flowing glucose. [Jessie Inchauspé. DOAC.][1].
+ * Small amount of movement helps catch the free flowing glucose. [Jessie Inchauspé. DOAC.](#doac1).
 * Regular workouts
  * More muscle is good for burning energy, getting old, sitting in office chairs, general health
 * Eating order
- * First veggies, then fat and meat, then carbs. Jessie Inchauspé. DOAC.
+ * First veggies, then fat and meat, then carbs. [Jessie Inchauspé. DOAC.](#doac1)
 * Limit Ultra Processes Foods (UPF)
   * UPF makes you eat faster, eat more
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
 
-*
-ONE [hobbit-hole1][1]
-tWO [hobbit-hole2] [2]
 
-[1]: [https://en.wikipedia.org/wiki/Hobbit#Lifestyle](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ) (The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243)
-
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
+### DOAC1 
+[The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ)
