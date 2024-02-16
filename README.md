@@ -19,4 +19,16 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
   * UPF makes you eat faster, eat more
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
 
+*
+sdfsdffff [hobbit-hole][1]
+sdfsdf [hobbit-hole] [1]
+
 [1]: [https://en.wikipedia.org/wiki/Hobbit#Lifestyle](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ) (The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243)
+
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
