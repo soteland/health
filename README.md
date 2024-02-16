@@ -20,8 +20,8 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
 
 *
-sdfsdffff [hobbit-hole][1]
-sdfsdf [hobbit-hole] [1]
+ONE [hobbit-hole1][1]
+tWO [hobbit-hole2] [2]
 
 [1]: [https://en.wikipedia.org/wiki/Hobbit#Lifestyle](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ) (The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243)
 
