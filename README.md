@@ -7,6 +7,7 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
   * Easiest for me is 8/16. Eat from 1200 to 2000.
   * Loose belly fat
   * Coffee, water, sugarfree gum is ok
+* Avoid eating before going to bed
 * Vineager before meals
   * Add 1 tbsp to one glass of water before meal. [Jessie Inchauspé. DOAC.](#doac1)
 * Move after meal
@@ -18,6 +19,13 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 * Limit Ultra Processes Foods (UPF)
   * UPF makes you eat faster, eat more
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
+* Limit, preferably avoid sugar
+ * Sugar is not food
+* Limit or avoid alcohol
+ * Sleep better
+ * Alcohol is sugar/carbs
+* Read at the bedside, no phone in the bedroom
+* Get enough sleep
 
 
 ### DOAC1 
