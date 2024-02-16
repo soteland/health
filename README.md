@@ -10,7 +10,7 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 * Vineager before meals
   * Add 1 tbsp to one glass of water before meal. Jessie Inchauspé. DOAC.
 * Move after meal
- * Small amount of movement helps catch the free flowing glucose. Jessie Inchauspé. DOAC.
+ * Small amount of movement helps catch the free flowing glucose. [Jessie Inchauspé. DOAC.][1].
 * Regular workouts
  * More muscle is good for burning energy, getting old, sitting in office chairs, general health
 * Eating order
@@ -18,3 +18,5 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 * Limit Ultra Processes Foods (UPF)
   * UPF makes you eat faster, eat more
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
+
+[1]: [https://en.wikipedia.org/wiki/Hobbit#Lifestyle](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ) (The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243)
