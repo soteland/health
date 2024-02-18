@@ -6,6 +6,10 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 
 "*The proof is in the pudding, or rather the lack of pudding.*" - me, 2024-02-18
 
+## Why
+
+*missing info* Why... 
+
 ## Starting point
 
 * Waist: 104 cm
