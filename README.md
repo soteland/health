@@ -8,7 +8,9 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 
 ## Why
 
-*missing info* Why... 
+**Live better for as long as I live.**
+
+Prevent heart attack, and other life style related diseases.
 
 ## Starting point
 
