@@ -53,15 +53,15 @@ I'm getting realizations about food and "food". One calorie is not the same as a
   * Coffee, water, sugarfree gum is ok
 * Avoid eating before going to bed
 * Vineager before meals
-  * Add 1 tbsp to one glass of water before meal. [Jessie Inchauspé. DOAC.](#doac1)
+  * Add 1 tbsp to one glass of water before meal. [Jessie Inchauspé. DOAC.](#1)
 * Move after meal
- * Small amount of movement helps catch the free flowing glucose. [Jessie Inchauspé. DOAC.](#doac1).
+ * Small amount of movement helps catch the free flowing glucose. [Jessie Inchauspé. DOAC.](#1).
 * Regular workouts
  * More muscle is good for burning energy, getting old, sitting in office chairs, general health
 * Eating order
- * First veggies, then fat and meat, then carbs. [Jessie Inchauspé. DOAC.](#doac1)
+ * First veggies, then fat and meat, then carbs. [Jessie Inchauspé. DOAC.](#1)
 * Limit Ultra Processes Foods (UPF)
-  * UPF makes you eat faster, eat more
+  * UPF makes you eat faster, eat more [Chris Van Tulleken. DOAC.](#2)
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
 * Limit, preferably avoid sugar
  * Sugar is not food
@@ -79,5 +79,7 @@ I'm getting realizations about food and "food". One calorie is not the same as a
 1. Heineken 0.0 - Ok, tastes about like the mild cheap pilsner on tap.
 1. Brooklyn ...
 
-### DOAC1 
+#### 1 
 [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ)
+#### 2
+[The Junk Food Doctor: "THIS Food Is Worse Than Smoking!" - Chris Van Tulleken Ultra-Processed People](https://www.youtube.com/watch?v=dzUDhstqXbg)
