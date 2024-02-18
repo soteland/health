@@ -65,7 +65,7 @@ I'm getting realizations about food and "food". One calorie is not the same as a
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
 * Limit, preferably avoid sugar
  * Sugar is not food
-* Limit or avoid alcohol
+* Limit or avoid alcohol [Kristen Holmes. DOAC.](#3) [Rich Roll. DOAC.](#4)
  * Sleep better
  * Alcohol is sugar/carbs
 * Read at the bedside, no phone in the bedroom
@@ -79,7 +79,13 @@ I'm getting realizations about food and "food". One calorie is not the same as a
 1. Heineken 0.0 - Ok, tastes about like the mild cheap pilsner on tap.
 1. Brooklyn ...
 
+# References
+
 #### 1 
 [The Scary New Research On Sugar & How They Made You Addicted To It! Jessie Inchauspé | E243](https://youtu.be/DnEJrgc1BCk?si=74Qp7F2bbLjaRVbQ)
 #### 2
 [The Junk Food Doctor: "THIS Food Is Worse Than Smoking!" - Chris Van Tulleken Ultra-Processed People](https://www.youtube.com/watch?v=dzUDhstqXbg)
+#### 3
+[The Fitness Scientist: "Even A Little Alcohol Is Hurting Your Health!" Kristen Holmes](https://www.youtube.com/watch?v=-Hwlvkfp698)
+#### 4
+[TRANSFORM Your Life At Any Moment: Alcoholic Lawyer That Became "Fittest Man On The Planet"Rich Roll](https://www.youtube.com/watch?v=hUZ_WcBQFds)
