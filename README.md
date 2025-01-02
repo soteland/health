@@ -1,5 +1,7 @@
 # Health, weight and related things
 
+*UPDATE: Last year (2024) started great, but evolved into disaester. I'm worse off than last january. Let's try again!*
+
 Just my collection of health related tips and tricks... This is my way of collecting "my research" on the subject, and keeping track of what I'm doing. You may also go for some of these!
 
 Don't do them all, or do them all. Pick and choose if you'd like. I'll try to reference all tips to scientific data directly or by proxy.
@@ -10,28 +12,36 @@ Don't do them all, or do them all. Pick and choose if you'd like. I'll try to re
 
 **Live better for as long as I live.**
 
-Prevent heart attack, and other life style related diseases.
+**Be able to snowboard with my kids for as long as possible**
+
+**Not hog up hospitals with stupid life style choices**
+
+**More energy, better sleep, better awareness, clear mind**
+
+**Prevent heart attack, and other life style related diseases.**
 
 ## Starting point
 
-* Waist: 104 cm
+* Waist: 104 cm (2024-01-02)
+* Waist: 107 cm (2025-01-02) Yes. We're moving backwards!
 * Weight: 87.2 kg
 
 *Tracking using Apple Health*
 
-## Progress as of 2024-02-18
+## Progress as of .....
 
-* Waist: 102.2 cm (-1.8 cm)
-* Weight: 82.95 kg (-4 kg) ((Hoping to plateu at ~78 due to muscle growth))
+* Waist: .......
+* Weight: .......
 
 ## Current goal
 
-* 90 cm waist (stable for for a week)
+* 90 cm waist (stable for for a month)
 * 8/16-diet
-* No sweets, chocolate. Chips allowed in good company, seldom, and fair amounts)
-* Limit alcohol, test out more good non-alcoholic alternatives! (list to come)
-* Two workouts per week
-* No time limit - I really want this to stick as a habit for my life!
+* No sweets, chocolate or chips. Liquorish allowed saturday. Chips allowed in good company, seldom, and fair amounts)
+* Severely alcohol
+* One workout per week
+* Short home workouts counts
+* No time limit - I really want this to stick as a habit forever!
 
 ## Wins
 
@@ -41,6 +51,8 @@ Prevent heart attack, and other life style related diseases.
  * Two workouts per weeek
  * Go to bed early/Sleep enough
  * 8/16-diet (not original goal, it just came to be and I added it)
+ 
+* I did 2024 without chocolate, sweets and soda with sugar!!
 
 ## (Good) Habits picked up so far
 
@@ -60,6 +72,7 @@ I'm getting realizations about food and "food". One calorie is not the same as a
 * Avoid eating before going to bed
 * Vineager before meals
   * Add 1 tbsp to one glass of water before meal. [Jessie Inchauspé. DOAC.](#1)
+  * Tried this for a while. Hard to remember. Not doing atm.
 * Move after meal
  * Small amount of movement helps catch the free flowing glucose. [Jessie Inchauspé. DOAC.](#1).
 * Regular workouts
@@ -71,6 +84,7 @@ I'm getting realizations about food and "food". One calorie is not the same as a
 * Eat less carbs, more green and proteins (egg, chicken, beef, cheese)
 * Limit, preferably avoid sugar
  * Sugar is not food
+ * SUGAR IS NOT FOOD!
 * Limit or avoid alcohol [Kristen Holmes. DOAC.](#3) [Rich Roll. DOAC.](#4)
  * Sleep better
  * Alcohol is sugar/carbs
